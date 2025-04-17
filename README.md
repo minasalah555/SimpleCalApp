@@ -1,4 +1,4 @@
-# calcalutre_for_mina_app
+# calcalutre_app
 
 A new Flutter project.
 
